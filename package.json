@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-web",
+  "version": "1.0.0",
+  "description": "portfolio web",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "portfolio web"
+  },
+  "keywords": [
+    "web",
+    "portfolio"
+  ],
+  "author": "varun gautam",
+  "license": "MIT",
+  "dependencies": {
+    "lite": "^4.0.5",
+    "server": "^1.0.38"
+  }
+}
